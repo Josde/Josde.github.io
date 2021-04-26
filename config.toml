@@ -24,6 +24,11 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+[module]
+
+  [[module.imports]]
+    path = "github.com/rhazdon/hugo-theme-hello-friend-ng"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"

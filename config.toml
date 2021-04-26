@@ -1,4 +1,4 @@
-baseurl      = "http://josde.github.io/"
+baseurl      = "http://josde.me/"
 title        = "Josde's Homepage"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

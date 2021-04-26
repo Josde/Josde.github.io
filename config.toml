@@ -1,4 +1,4 @@
-baseurl      = "josde.me"
+baseurl      = "http://josde.me"
 title        = "Josde's Homepage"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

@@ -1,4 +1,4 @@
-baseurl      = "/"
+baseurl      = "http://josde.me/"
 title        = "Josde's Homepage"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -9,7 +9,6 @@ paginate     = 10
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  publishDir = "docs"
   # Subtitle for home
   homeSubtitle = "Welcome to my random code musings!"
 

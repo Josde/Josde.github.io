@@ -56,10 +56,6 @@ paginate     = 10
     name       = "Writeups"
     url        = "/posts"
   [[menu.main]]
-    identifier = "tracker"
-    name       = "Tracker"
-    url        = "http://soloq.josde.me"
-  [[menu.main]]
     identifier = "resume"
     name       = "Resume"
     url = "/resume"

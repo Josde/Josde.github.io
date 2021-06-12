@@ -6,8 +6,9 @@ draft: false
 
 # Education
 **Bachelor's Degree in Computer Engineering**  
-*University of Salamanca (2018-present)*
-#Skills
+*University of Salamanca (2018-present)*  
+
+# Skills
 
 - C
 - Python

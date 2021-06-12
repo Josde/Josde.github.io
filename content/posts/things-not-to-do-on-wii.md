@@ -12,7 +12,7 @@ tags:
 ---
 
 
-During the last few days, I've gone on a trip down a *very deep* rabbit hole: trying to find things to do with the Wii that I have just laying around.
+During the last few days, I've gone on a trip down a *very deep* rabbit hole: trying to find things to do with the Wii that I have just lying around.
 
 I documented my findings, and reviewed everything I tried, **just so you won't have to go down the same hole as I did.**
 

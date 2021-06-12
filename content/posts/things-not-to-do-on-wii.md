@@ -21,7 +21,7 @@ I documented my findings, and reviewed everything I tried, **just so you won't h
 
 - A SD card, at least bigger than 1 GB but higher is recommended. SDXC is not compatible.
 - An USB keyboard.
-- As a recommendation, an USB stick that you don't mind not using for a while.
+- As a recommendation, an USB stick that you don't mind not using for a while to use it as a swap device. Alternatively, create a swap partition on your SD (slower)
 
 ## Homebrew
 Okay, first things first: Homebrew is, basically, **the only thing in this list that I recommend**.   

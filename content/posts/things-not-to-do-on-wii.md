@@ -53,7 +53,7 @@ Finally, the last thing we need to do to complete a basic, working Linux setup i
 **``deb http://archive.debian.org/debian jessie main``**
 
 Final verdict: Try doing it!  You don't lose anything, though I have yet to find something actually useful to do.
-## Minecraft
+## Minecraft server
 So... Minecraft server. Minimum requirements are 512MB, so it must surely not work on the Wii right? Well, it... kinda does? It all depends on what your definition of "working" is!  
 So, I opted for running a **[Paper 1.8.8 server](https://papermc.io/)**, which is one of the fastest server forks you can run.   
 I modified the config to the minimum settings I could think of: **a view distance of 4, disabled timeouts, no debugging, no Spigot timings, every single Spigot and Paper setting that increases performance**. The result? A frankenstein configuration that probably breaks every single redstone contraption and gameplay element of Minecraft. However, it should also be the most performance that I can squeeze out of this thing. I also ran **[WorldBorder](https://dev.bukkit.org/projects/worldborder)** to pregenerate the world, because generating it on the Wii would most likely take several hours.
@@ -76,9 +76,7 @@ In case you want to see this monstrosity in action, here's a video:
 
 Final verdict: **Do NOT do this.** It's a seriously stupid idea.
 
-
 ## Wiihole
-
 I thought to myself that maybe *-just maybe-* I could use my Wii as a DNS server to get network-wide adblocking without having to spend $$$ on a Raspberry Pi (I *do* know that they are super cheap but I am a tremendous miser at times)
 
 While getting Pihole to run on your Wii is not as easy as doing it on an actual Raspberry Pi, it's still fairly straightforward.

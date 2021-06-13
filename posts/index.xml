@@ -1,0 +1,96 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on josde.me</title>
+        <link>http://josde.me/posts/</link>
+        <description>Recent content in Posts on josde.me</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 12 Jun 2021 18:11:28 +0200</lastBuildDate>
+        <atom:link href="http://josde.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Things not to do on a Wii</title>
+            <link>http://josde.me/posts/things-not-to-do-on-wii/</link>
+            <pubDate>Sat, 12 Jun 2021 18:11:28 +0200</pubDate>
+            
+            <guid>http://josde.me/posts/things-not-to-do-on-wii/</guid>
+            <description>During the last few days, I&amp;rsquo;ve gone on a trip down a very deep rabbit hole: trying to find things to do with the Wii that I have just lying around.
+I documented my findings, and reviewed everything I tried, just so you won&amp;rsquo;t have to go down the same hole as I did.
+Requirements  A SD card, at least bigger than 1 GB but higher is recommended. SDXC is not compatible.</description>
+            <content type="html"><![CDATA[<p>During the last few days, I&rsquo;ve gone on a trip down a <em>very deep</em> rabbit hole: trying to find things to do with the Wii that I have just lying around.</p>
+<p>I documented my findings, and reviewed everything I tried, <strong>just so you won&rsquo;t have to go down the same hole as I did.</strong></p>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li>A SD card, at least bigger than 1 GB but higher is recommended. SDXC is not compatible.</li>
+<li>An USB keyboard.</li>
+<li>As a recommendation, an USB stick that you don&rsquo;t mind not using for a while to use it as a swap device. Alternatively, create a swap partition on your SD (slower)</li>
+</ul>
+<h2 id="homebrew">Homebrew</h2>
+<p>Okay, first things first: Homebrew is, basically, <strong>the only thing in this list that I recommend</strong>.<br>
+It&rsquo;s not only very easy and beginner-friendly, but also useful in the sense that it lets you load any useful application that you want (be it ripping your Wii games, using an USB loader, playing online or hell, just having a media player on your Wii).<br>
+I recommend you to follow <strong><a href="https://wii.guide/get-started">wii.guide</a></strong> with the <strong>Letterbomb method</strong>, which is not only super well-documented but also one of the easiest methods.  <br>
+In case you&rsquo;re worried about bricking: <em>it won&rsquo;t, trust me, doing this is very safe!</em>.</p>
+<p>Final verdict: <strong>Do it!</strong> It&rsquo;s extremely useful and easy.</p>
+<h2 id="linux">Linux</h2>
+<p>After homebrewing your Wii, getting Linux installed on it is as easy as downloading the last <strong><a href="https://github.com/neagix/wii-linux-ngx">wii-linux-ngx</a></strong> release and flashing it on a SD card with <strong><a href="https://www.balena.io/etcher/">balenaEtcher</a></strong>. Also, <strong>you should  boot into a Linux system or a GParted LiveCD to change the size of your newly created Linux system partition</strong> before proceeding, since it is only 300-and-something MB by default, and also <strong>format or create a linux-swap partition in your USB</strong> .<br>
+After this, <strong>connect your USB keyboard and your USB drive, and then insert the SD card into your Wii</strong>. Turn it on and launch the Homebrew Channel, then press the Home Button on your Wiimote. Select &ldquo;Launch BootMii&rdquo; and you&rsquo;ll be greeted by a GRUB-like Bootloader. Hold the RESET button on your Wii for around one second, and you&rsquo;ll have successfully booted into Linux for the first time! However, the setup hasn&rsquo;t ended yet.</p>
+<p>First thing I recommend doing is <strong>activating swap space</strong>, since the Wii only has ~70MB of RAM. Run <strong><code>fdisk -l</code> and identify your USB&rsquo;s linux-swap partition</strong>, and then modify <strong><code>/etc/fstab</code></strong> to reflect where it is. Finally, run <strong><code>swapon -a</code></strong>.
+You probably want network access, so next thing to do from here, is navigate to <strong><code>/etc/network/interfaces.d</code></strong> and create a <strong>wlan1</strong> file with nano, and insert the following content:</p>
+<pre><code>auto wlan1
+iface wlan1 inet dhcp
+        wpa-ssid YOUR_SSID
+        wpa-psk YOUR_PASSWORD
+</code></pre><p>and then run <strong>ifup -a</strong><br>
+Note: wii-linux-ngx includes a &ldquo;easy network config&rdquo; script, however it doesn&rsquo;t work as it will create the interface wlan0, which is not correct<br>
+Note 2: If this doesn&rsquo;t work out of the box, check <a href="http://www.gc-linux.org/wiki/WL:Wifi_Configuration#Debian_configuration">this</a>.</p>
+<p>After this, edit your <strong>/etc/ssh/sshd_config</strong> file with <strong><code>PermitRootLogin true</code></strong> since we only have a root account in this setup.<br>
+Now we can SSH and SFTP from our computer, which makes working with this way easier.</p>
+<p>Finally, the last thing we need to do to complete a basic, working Linux setup is to update our <strong>/etc/apt/sources.list</strong> file to this content:
+<strong><code>deb http://archive.debian.org/debian jessie main</code></strong></p>
+<p>Final verdict: Try doing it!  You don&rsquo;t lose anything, though I have yet to find something actually useful to do.</p>
+<h2 id="minecraft-server">Minecraft server</h2>
+<p>So&hellip; Minecraft server. Minimum requirements are 512MB, so it must surely not work on the Wii right? Well, it&hellip; kinda does? It all depends on what your definition of &ldquo;working&rdquo; is!<br>
+So, I opted for running a <strong><a href="https://papermc.io/">Paper 1.8.8 server</a></strong>, which is one of the fastest server forks you can run.<br>
+I modified the config to the minimum settings I could think of: <strong>a view distance of 4, disabled timeouts, no debugging, no Spigot timings, every single Spigot and Paper setting that increases performance</strong>. The result? A frankenstein configuration that probably breaks every single redstone contraption and gameplay element of Minecraft. However, it should also be the most performance that I can squeeze out of this thing. I also ran <strong><a href="https://dev.bukkit.org/projects/worldborder">WorldBorder</a></strong> to pregenerate the world, because generating it on the Wii would most likely take several hours.
+Finally, to install this on your Wii:</p>
+<ol>
+<li>Push the server folder to your Wii through SFTP.</li>
+<li>Add this to your <strong>sources.list</strong> <code>deb [check-valid-until=no] http://archive.debian.org/debian jessie-backports main</code></li>
+<li>Get Java 8 with <code>apt-get install -t jessie-backports openjdk-8-jdk-headless</code> and pray you don&rsquo;t get as many errors as I did&hellip;</li>
+<li><strong>You should now be able to run the Paper server like any other Minecraft server!</strong> (I recommend using nice to speed it up a bit): <code>nice -n -10 java -Xmx2G -jar paper-1.8.8-443.jar</code></li>
+</ol>
+<p>You might be wondering about the results&hellip; Well:</p>
+<ul>
+<li><strong>Around one hour just to launch the server</strong> (I&rsquo;m guessing most of this is JVM memory allocation, which, since it is running completely on swap space is slow as hell)</li>
+<li><strong>It took three attempts to successfully connect</strong></li>
+<li><strong>Around 2-3TPS with only one player.</strong>  <img src="https://jos.s-ul.eu/6tWPLaMm" alt="TPS"></li>
+</ul>
+<p>In case you want to see this monstrosity in action, here&rsquo;s a video:</p>
+<p><a href="https://www.youtube.com/watch?v=Fe5foaQHgvw"><img src="https://img.youtube.com/vi/Fe5foaQHgvw/0.jpg" alt="Minecraft gameplay on a Wii Server"></a></p>
+<p>Final verdict: <strong>Do NOT do this.</strong> It&rsquo;s a seriously stupid idea.</p>
+<h2 id="wiihole">Wiihole</h2>
+<p>I thought to myself that maybe <em>-just maybe-</em> I could use my Wii as a DNS server to get network-wide adblocking without having to spend $$$ on a Raspberry Pi (I <em>do</em> know that they are super cheap but I am a tremendous miser at times)</p>
+<p>While getting Pihole to run on your Wii is not as easy as doing it on an actual Raspberry Pi, it&rsquo;s still fairly straightforward.</p>
+<ol>
+<li>Set your Wii&rsquo;s IP to be static through your router.</li>
+<li>Pre-install the dependencies (they won&rsquo;t install with the Pihole script because the Debian Jessie repo keys are expired) <code>apt-get install curl dnsmasq dhcpcd5 git dnsutils libsqlite3-0 libidn2-0 libperl4-corelibs-perl lsof dns-root-data psmisc sqlite3 unzip idn2 netcat</code></li>
+<li>Get <strong>Pihole 3.3.1</strong> from GitHub. This is the last supported version. <code>curl -https://codeload.github.com/pi-hole/pi-hole/tar.gz/refs/tags/v3.3.1 &gt; Pihole.tar.gz</code></li>
+<li>Unzip it <code>tar -xf Pihole.tar.gz</code></li>
+<li>Go into the directory that has been just created and run <code>PIHOLE_SKIP_OS_CHECK=true bash pihole</code></li>
+<li>In the Pihole installer, <strong>turn off Web interface and logging</strong>. We need to maximize performance as much as possible.</li>
+<li>Set your computer (or your router&rsquo;s DNS) to the Wii&rsquo;s IP.</li>
+</ol>
+<p>So, what are the results? Well&hellip; I tried it with Namebench, and I was even more disappointed than I thought I would be.<br>
+<img src="https://jos.s-ul.eu/rhs6zC0p" alt="DNS Performance Graph"><br>
+So, in average, it takes around ~4-5 times more to resolve a DNS query with the Wiihole than with a standard DNS like your ISP&rsquo;s or Google DNS</p>
+<p>Final verdict: <strong>Do NOT do this.</strong></p>
+<h2 id="conclusions">Conclusions</h2>
+<p>You could possibly improve the performance of this by <strong>using ZSwap and ZRAM</strong> because the Wii&rsquo;s 70MB of RAM are the biggest bottleneck (whatever you try to do, due to the scarcity of RAM you&rsquo;ll be constantly accessing  swap space which is super slow). However, <strong>neither ZSwap nor ZRAM are included in wii-linux-ngx</strong>.</p>
+<p>You could also probably improve Wiihole&rsquo;s performance by <strong>using a Wii ethernet adapter</strong> and <strong>by using a newer Pihole build that uses FTLDNS</strong> (however, you need to compile this yourself, and the debian repos lack some of the necessary dependencies to do so).</p>
+<p>Still, the Wii is old and was already underpowered by the date it came out (as Nintendo consoles usually do), <strong>there just isn&rsquo;t much to do</strong>. I&rsquo;ll probably keep trying to find a good purpose for Linux on it, but for now, I recommend you to just homebrew it and marvel at <strong>how well optimized Wii games were to run well on this kind of hardware</strong>.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

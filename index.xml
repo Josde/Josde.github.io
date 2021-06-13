@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>josde.me</title>
+    <link>http://josde.me/</link>
+    <description>Recent content on josde.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 12 Jun 2021 18:11:28 +0200</lastBuildDate><atom:link href="http://josde.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things not to do on a Wii</title>
+      <link>http://josde.me/posts/things-not-to-do-on-wii/</link>
+      <pubDate>Sat, 12 Jun 2021 18:11:28 +0200</pubDate>
+      
+      <guid>http://josde.me/posts/things-not-to-do-on-wii/</guid>
+      <description>During the last few days, I&amp;rsquo;ve gone on a trip down a very deep rabbit hole: trying to find things to do with the Wii that I have just lying around.
+I documented my findings, and reviewed everything I tried, just so you won&amp;rsquo;t have to go down the same hole as I did.
+Requirements  A SD card, at least bigger than 1 GB but higher is recommended. SDXC is not compatible.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://josde.me/resume/</link>
+      <pubDate>Mon, 26 Apr 2021 23:38:43 +0200</pubDate>
+      
+      <guid>http://josde.me/resume/</guid>
+      <description>Education Bachelor&amp;rsquo;s Degree in Computer Engineering
+University of Salamanca (2018-present)
+Skills  C Python Java Linux SysAdmin  Languages  Spanish (Native speaker) English (Uncertified, currently preparing for the C1 tests)  more stuff coming soon&amp;hellip; </description>
+    </item>
+    
+  </channel>
+</rss>

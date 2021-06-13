@@ -42,9 +42,9 @@ iface wlan1 inet dhcp
         wpa-ssid YOUR_SSID
         wpa-psk YOUR_PASSWORD
 ```  
-and then run **ifup -a**
-Note: wii-linux-ngx includes a "easy network config" script, however it doesn't work as it will create the interface wlan0, which is not correct
-Note 2: If this doesn't work out of the box, check [this](http://www.gc-linux.org/wiki/WL:Wifi_Configuration#Debian_configuration)
+and then run **ifup -a**  
+Note: wii-linux-ngx includes a "easy network config" script, however it doesn't work as it will create the interface wlan0, which is not correct  
+Note 2: If this doesn't work out of the box, check [this](http://www.gc-linux.org/wiki/WL:Wifi_Configuration#Debian_configuration).
 
 After this, edit your **/etc/ssh/sshd_config** file with **``PermitRootLogin true``** since we only have a root account in this setup.  
 Now we can SSH and SFTP from our computer, which makes working with this way easier.

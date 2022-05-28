@@ -59,3 +59,8 @@ paginate     = 10
     identifier = "resume"
     name       = "Resume"
     url = "/resume"
+
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url = "/projects"

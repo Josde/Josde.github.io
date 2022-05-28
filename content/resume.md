@@ -14,6 +14,11 @@ draft: false
 - Python
 - Java
 - Linux SysAdmin
+- Deployment and usage of Heroku 
+
+# Interests 
+
+- Fullstack Development
 
 # Languages
 

@@ -55,7 +55,7 @@ paginate     = 10
       url = "/discord"
     [[params.social]]
       name = "email"
-      url = "mailto:contact@josde.me"
+      url = "https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71"
 
   # And you can even create generic menu
   [[menu.main]]

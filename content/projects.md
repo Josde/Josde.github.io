@@ -11,8 +11,8 @@ They are, however, projects that I am fond of and enjoyed programming and theref
 
 # Projects
 
-Click on the images to open the source code!
+Click on the images to see them running!
 
-[![SpoilerScraper](https://jos.s-ul.eu/NjCAx2S6)](https://github.com/Josde/SpoilerScraper)   |  [![](https://jos.s-ul.eu/6bsd0V6y)](https://github.com/Josde/SimpleSoloQTracker/)
+[![SpoilerScraper](https://jos.s-ul.eu/NjCAx2S6)](https://spoilers.josde.me)   |  [![](https://jos.s-ul.eu/6bsd0V6y)](https://soloq.josde.me)
 :-------------------------:|:-------------------------:
 Spoiler release tracker for One Piece | SoloQ Challenge maker for small groups

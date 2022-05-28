@@ -19,7 +19,7 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Josde's Blog"
   keywords = "homepage, blog"
   images = [""]
 
@@ -50,10 +50,17 @@ paginate     = 10
     [[params.social]]
       name = "twitch"
       url = "https://twitch.tv/Josde_"
+    [[params.social]]
+      name = "discord"
+      url = "/discord"
+    [[params.social]]
+      name = "email"
+      url = "mailto:contact@josde.me"
+
   # And you can even create generic menu
   [[menu.main]]
     identifier = "Posts"
-    name       = "Writeups"
+    name       = "Posts"
     url        = "/posts"
   [[menu.main]]
     identifier = "resume"

@@ -56,6 +56,11 @@ paginate     = 10
     [[params.social]]
       name = "email"
       url = "https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71"
+    [[params.social]]
+      name = "paypal"
+      url = "https://paypal.me/itsJosde"
+
+
 
   # And you can even create generic menu
   [[menu.main]]

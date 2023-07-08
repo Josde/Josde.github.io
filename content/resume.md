@@ -7,7 +7,8 @@ draft: false
 # Education
 **Bachelor's Degree in Computer Engineering**  
 *University of Salamanca (2018-2023)*  
-**Course in APIFication and new generation architectures** *AXPE Consulting (Oct 2022 - Nov 2022)*
+**Course in APIFication and new generation architectures**  
+*AXPE Consulting (Oct 2022 - Nov 2022)*
 
 # Skills
 
@@ -31,4 +32,6 @@ draft: false
 
 
 
-### more stuff coming soon...
+# Projects
+
+Check out my **[projects page](/projects)!**

@@ -52,7 +52,7 @@ paginate     = 10
       url = "https://twitch.tv/Josde_"
     [[params.social]]
       name = "discord"
-      url = "/discord"
+      url = "https://discord.com/invite/sXV9KMgd"
     [[params.social]]
       name = "email"
       url = "https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71"

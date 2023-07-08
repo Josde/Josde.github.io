@@ -9,9 +9,9 @@ These are a few projects that I have worked on for a while. They may still be bu
 
 Click on the images to see the source code.
 
-| [![Habitr](https://jos.s-ul.eu/XP9i3nF4)](https://github.com/Josde?tab=repositories)  | [![Skaarladder](https://jos.s-ul.eu/KdCDDn3f)](https://github.com/Josde/Skaarladder)  |
+| [![Habitr](https://jos.s-ul.eu/XP9i3nF4)](https://github.com/Josde/habitr_tfg)  | [![Skaarladder](https://jos.s-ul.eu/KdCDDn3f)](https://github.com/Josde/Skaarladder)  |
 |---|---|
-| Cross-platform app to create healthy routines through gamification | SoloQ Challenge creator for League of Legends   |
+| App to create healthy routines through gamification | SoloQ Challenge creator for League of Legends   |
 
 # Small projects
 ## Disclaimer

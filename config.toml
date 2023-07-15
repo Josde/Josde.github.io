@@ -1,14 +1,15 @@
 baseurl      = "http://josde.me/"
-title        = "Josde's Homepage"
+title        = "Josde's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateformNum     = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04"
   # Subtitle for home
   homeSubtitle = "Welcome to my random code musings!"
 
@@ -17,6 +18,7 @@ paginate     = 10
   enableMissingTranslationPlaceholders = true
   enableThemeToggle = true
   enableGlobalLanguageMenu = true
+  canonifyURLs = true
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false

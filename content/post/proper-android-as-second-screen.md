@@ -2,7 +2,7 @@
 title: "There's always an open source solution for everything."
 date: 2023-03-21T19:43:24+01:00
 draft: true
-toc: false
+toc: true
 images:
 tags:
   - productivity

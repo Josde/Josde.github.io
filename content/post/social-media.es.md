@@ -1,8 +1,8 @@
 ---
 title: "La mierdificación de las redes sociales."
 date: 2023-07-09T19:27:34+02:00
-draft: false
-toc: false
+draft: true
+toc: true
 summary: "Últimamente da la sensación de que las sociales están empeorando cada día. ¿Es esto real o una simple percepción? ¿Qué podemos hacer?"
 tags:
   - untagged

@@ -26,7 +26,7 @@ paginate     = 10
 
   # Metadata mostly used in document's head
   description = "Josde's Blog"
-  keywords = "homepage, blog"
+  keywords = "blog, technology, programming, josde, josde.me, josde_"
   images = [""]
 
 
@@ -87,10 +87,10 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 1
-    title = "josde.me"
+    title = "Josde's Blog"
     homeSubtitle = "Thoughts on technology and a few coding adventures ٩(◕‿◕｡)۶"
-    subtitle = "Josde's Coding Adventures"
-    keywords = "blog, technology, programming, josde, josde.me"
+    subtitle = "josde.me"
+    keywords = "blog, technology, programming, josde, josde.me, josde_"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
@@ -103,9 +103,9 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = 'Español'
     homeSubtitle = "Reflexiones sobre tecnología y aventuras de programación ٩(◕‿◕｡)۶"
-    title = "josde.me"
-    subtitle = 'El Blog de Josde'
-    keywords = "blog, tecnología, programación, josde, josde.me"
+    title = "El blog de Josde"
+    subtitle = 'josde.me'
+    keywords = "blog, tecnología, programación, josde, josde.me, josde_"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Leer otros posts"
     weight = 2

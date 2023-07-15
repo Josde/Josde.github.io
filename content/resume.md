@@ -11,7 +11,6 @@ draft: false
 *AXPE Consulting (Oct 2022 - Nov 2022)*
 
 # Skills
-
 - C
 - Python
 - Java
@@ -20,13 +19,11 @@ draft: false
 - Django
 
 # Interests 
-
 - Fullstack Development
 - Humane Tech
 - Impacts of technology in society
 
 # Languages
-
 - Spanish (Native speaker)
 - English (Uncertified, currently preparing for the C1 tests)
 

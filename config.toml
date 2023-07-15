@@ -12,6 +12,12 @@ paginate     = 10
   # Subtitle for home
   homeSubtitle = "Welcome to my random code musings!"
 
+  enableRobotsTXT = true
+  enableEmoji     = true
+  enableMissingTranslationPlaceholders = true
+  enableThemeToggle = true
+  enableGlobalLanguageMenu = true
+
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -29,50 +35,93 @@ paginate     = 10
     tag      = "tags"
     series   = "series"
 
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/Josde"
+[[params.social]]
+  name = "twitch"
+  url = "https://twitch.tv/Josde_"
+[[params.social]]
+  name = "discord"
+  url = "https://discord.com/invite/sXV9KMgd"
+[[params.social]]
+  name = "email"
+  url = "https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71"
+[[params.social]]
+  name = "paypal"
+  url = "https://paypal.me/itsJosde"
+[[params.social]]
+  name = "mastodon"
+  url = "https://owo.cafe/@Josde"
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jorge-cruz-garc%C3%ADa-9a6882196/"
+
+
+# And you can even create generic menu
+[[menu.main]]
+identifier = "Posts"
+name       = "Posts"
+url        = "/post"
+[[menu.main]]
+identifier = "resume"
+name       = "Resume"
+url = "/resume"
+
+[[menu.main]]
+identifier = "projects"
+name       = "Projects"
+url = "/projects"
+
+
+# Internationalization
+
+
+defaultContentLanguage = 'en'
+
 [languages]
   [languages.en]
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 1
     title = "josde.me"
+    homeSubtitle = "Thoughts on technology and a few coding adventures ٩(◕‿◕｡)۶"
     subtitle = "Josde's Coding Adventures"
-    keywords = ""
+    keywords = "blog, technology, programming, josde, josde.me"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "josde.me"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-    [[params.social]]
-     name = "github"
-     url = "https://github.com/Josde"
-    [[params.social]]
-      name = "twitch"
-      url = "https://twitch.tv/Josde_"
-    [[params.social]]
-      name = "discord"
-      url = "https://discord.com/invite/sXV9KMgd"
-    [[params.social]]
-      name = "email"
-      url = "https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71"
-    [[params.social]]
-      name = "paypal"
-      url = "https://paypal.me/itsJosde"
+   [languages.es]
+    disabled = false
+    languageCode = 'es-ES'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    homeSubtitle = "Reflexiones sobre tecnología y aventuras de programación ٩(◕‿◕｡)۶"
+    title = "josde.me"
+    subtitle = 'El Blog de Josde'
+    keywords = "blog, tecnología, programación, josde, josde.me"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Leer otros posts"
+    weight = 2
+    [languages.es.params.logo]
+        logoText = "josde.me"
+        logoHomeLink = "/"
 
 
+[params.footer]
+    trademark = true
+    rss = true
+    copyright = true
+    author = true
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "Posts"
-    name       = "Posts"
-    url        = "/posts"
-  [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url = "/resume"
-
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url = "/projects"
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
+      "Articles written with &#10084 by Josde"
+    ]

@@ -4,7 +4,6 @@ date: 2022-05-28T17:01:05+02:00
 draft: false
 ---
 
-# Projects
 These are a few projects that I have worked on for a while. They may still be buggy, but I am proud of them.
 
 Click on the images to see the source code.
@@ -37,5 +36,6 @@ These are projects made as assignments for several of my USAL courses. Some of t
 - **[PIII-Musicfy](https://github.com/Josde/PIII-Musicfy)**: Music management library to learn about OOP and MVC in Java.
 - **[IGU-CalorieTracker](https://github.com/Josde/IGU-CalorieTracker2)**: Calorie tracking software made to learn UI design and development in C# and WPF.
 
+These last two are less functional:
 - **[ADS-Web](https://github.com/Josde/ADS-Web)**: Webpage that allows users to create an account and upload their own homepages. Made to learn about Linux system administration, since it uses actual Linux users and Perl interfacing with Linux to work.
 - **[DAA-BeerManager](https://github.com/Josde/DAA-BeerManager)**: Swift app for managing your beer connection.  

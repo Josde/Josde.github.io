@@ -4,6 +4,7 @@ date: 2021-06-12T18:11:28+02:00
 draft: false
 toc: true
 images:
+summary: "There are many things to do with a Wii. So I decided to explore the things that you definitely shouldn't do!"
 tags:
   - wii
   - homebrew

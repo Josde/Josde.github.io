@@ -11,7 +11,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformNum     = "02-01-2006"
   dateformNumTime = "02-01-2006 15:04"
   # Subtitle for home
-  homeSubtitle = "Welcome to my random code musings!"
 
   enableRobotsTXT = true
   enableEmoji     = true
@@ -27,8 +26,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "Josde's Blog"
-  keywords = "blog, technology, programming, josde, josde.me, josde_, computer science, ethical technology"
+
   images = [""]
 
 
@@ -92,7 +90,8 @@ defaultContentLanguage = 'en'
     title = "Josde's Random Musings"
     homeSubtitle = "Thoughts on technology and a few coding adventures ٩(◕‿◕｡)۶"
     subtitle = "josde.me"
-    keywords = "blog, technology, programming, josde, josde.me, josde_, computer science, ethical technology"
+    description = "Josde's Blog. A place where you will find my thoughts on ethics on technology, computer science and some random programming adventures."
+    keywords = "blog, technology, programming, josde, josde.me, computer science, ethics"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
@@ -107,7 +106,8 @@ defaultContentLanguage = 'en'
     homeSubtitle = "Reflexiones sobre tecnología y aventuras de programación ٩(◕‿◕｡)۶"
     title = "Las movidas aleatorias de Josde"
     subtitle = 'josde.me'
-    keywords = "blog, tecnología, programación, josde, josde.me, josde_, etica, ingeniería informática, tecnología humana"
+    description = "El blog de Josde. Un lugar donde encontrarás reflexiones sobre la ética en la tecnología y en la ingeniería informática, además de aventuras aleatorias de programación."
+    keywords = "blog, tecnología, programación, josde, josde.me, etica, ingeniería informática, tecnología humana"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Leer otros posts"
     weight = 2

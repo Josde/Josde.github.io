@@ -1,5 +1,5 @@
 ---
-title: "La mierdificación de las redes social"
+title: "La mierdificación de las redes sociales"
 date: 2023-07-09T19:27:34+02:00
 draft: false
 toc: true

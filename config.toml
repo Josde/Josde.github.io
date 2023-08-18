@@ -1,4 +1,4 @@
-baseurl      = "http://josde.me/"
+baseurl      = "https://josde.me/"
 title        = "Josde's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -28,7 +28,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   # Metadata mostly used in document's head
   description = "Josde's Blog"
-  keywords = "blog, technology, programming, josde, josde.me, josde_"
+  keywords = "blog, technology, programming, josde, josde.me, josde_, computer science, ethical technology"
   images = [""]
 
 
@@ -89,10 +89,10 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 1
-    title = "Josde's Blog"
+    title = "Josde's Random Musings"
     homeSubtitle = "Thoughts on technology and a few coding adventures ٩(◕‿◕｡)۶"
     subtitle = "josde.me"
-    keywords = "blog, technology, programming, josde, josde.me, josde_"
+    keywords = "blog, technology, programming, josde, josde.me, josde_, computer science, ethical technology"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
@@ -105,9 +105,9 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = 'Español'
     homeSubtitle = "Reflexiones sobre tecnología y aventuras de programación ٩(◕‿◕｡)۶"
-    title = "El blog de Josde"
+    title = "Las movidas aleatorias de Josde"
     subtitle = 'josde.me'
-    keywords = "blog, tecnología, programación, josde, josde.me, josde_"
+    keywords = "blog, tecnología, programación, josde, josde.me, josde_, etica, ingeniería informática, tecnología humana"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Leer otros posts"
     weight = 2

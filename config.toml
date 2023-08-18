@@ -2,7 +2,6 @@ baseurl      = "https://josde.me/"
 title        = "Josde's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-
 paginate     = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -27,7 +26,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-
+  
   images = [""]
 
 
@@ -59,22 +58,20 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   name = "linkedin"
   url = "https://www.linkedin.com/in/jorge-cruz-garc%C3%ADa-9a6882196/"
 
-
 # And you can even create generic menu
 [[menu.main]]
-identifier = "Posts"
-name       = "Posts"
-url        = "/post"
+  identifier = "Musings"
+  name       = "Musings"
+  url        = "/post"
 [[menu.main]]
-identifier = "resume"
-name       = "Resume"
-url = "/resume"
+  identifier = "resume"
+  name       = "Resume"
+  url = "/resume"
 
 [[menu.main]]
-identifier = "projects"
-name       = "Projects"
-url = "/projects"
-
+  identifier = "projects"
+  name       = "Projects"
+  url = "/projects"
 
 # Internationalization
 
@@ -129,6 +126,6 @@ defaultContentLanguage = 'en'
       "Articles written with &#10084 by Josde"
     ]
 
- [author]
-     name = "Josde"
-     email = "contact@josde.me"
+[author]
+    name = "Josde"
+    email = "contact@josde.me"

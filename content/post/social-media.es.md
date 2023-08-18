@@ -1,5 +1,5 @@
 ---
-title: "La mierdificación de las redes sociales."
+title: "La mierdificación de las redes social"
 date: 2023-07-09T19:27:34+02:00
 draft: false
 toc: true
@@ -11,7 +11,7 @@ tags:
   - tecnología cívica
 ---
 
-## La mierdificación de las redes sociales
+
 
 Últimamente, quizás os hayáis dado cuenta de un fenómeno preocupante en el internet: muchas redes sociales están empeorando para sus propios usuarios. Reddit ha puesto precios abusivos a su API, matando los bots y las aplicaciones de terceros, junto a gran parte de su comunidad. Youtube incrementa el número de anuncios y avisa con medidas en contra de los bloqueadores de anuncios. Y Twitter... creo que ni siquiera tengo que hablar de Twitter. Esto es la mierdificación de las redes sociales.
 

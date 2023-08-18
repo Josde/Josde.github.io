@@ -2,6 +2,7 @@ baseurl      = "https://josde.me/"
 title        = "Josde's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
+
 paginate     = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -127,3 +128,7 @@ defaultContentLanguage = 'en'
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
       "Articles written with &#10084 by Josde"
     ]
+
+ [author]
+     name = "Josde"
+     email = "contact@josde.me"

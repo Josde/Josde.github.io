@@ -62,16 +62,16 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 [[menu.main]]
   identifier = "Musings"
   name       = "Musings"
-  url        = "/post"
+  url        = "/post/"
 [[menu.main]]
   identifier = "resume"
   name       = "Resume"
-  url = "/resume"
+  url = "/resume/"
 
 [[menu.main]]
   identifier = "projects"
   name       = "Projects"
-  url = "/projects"
+  url = "/projects/"
 
 # Internationalization
 

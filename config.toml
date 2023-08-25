@@ -47,7 +47,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   url = "https://discord.com/invite/sXV9KMgd"
 [[params.social]]
   name = "email"
-  url = "https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71"
+  url = "mailto:contact@josde.me"
 [[params.social]]
   name = "paypal"
   url = "https://paypal.me/itsJosde"

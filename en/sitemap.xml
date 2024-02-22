@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>https://josde.me/</loc>
+    <lastmod>2023-07-08T11:08:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josde.me/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josde.me/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://josde.me/post/</loc>
+    <lastmod>2023-07-08T11:08:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josde.me/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josde.me/post/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://josde.me/projects/</loc>
+    <lastmod>2022-05-28T17:01:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josde.me/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josde.me/projects/"
+                />
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://josde.me/post/things-not-to-do-on-wii/</loc>
+    <lastmod>2021-06-12T18:11:28+02:00</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://josde.me/resume/</loc>
+    <lastmod>2021-04-26T23:38:43+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josde.me/es/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josde.me/resume/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://josde.me/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josde.me/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josde.me/blog/"
+                />
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://josde.me/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josde.me/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josde.me/series/"
+                />
+  </url>
+  
+  
+</urlset>

@@ -13,9 +13,11 @@ draft: false
 
 # Work
 
-Intern engineer at **ESALab** *(Febrero 2022 - Mayo 2022)*
+Intern engineer at **ESALab** *(February 2022 - May 2022)*
 
-Intern engineer at **Ayuntamiento de Puebla de Sanabria** *(Junio 2023 - Presente)*
+Intern engineer at **Ayuntamiento de Puebla de Sanabria** *(June 2023 - October 2023)*
+
+Backend developer (Django) at **Phicus Tecnología** *(January 2024 - Present)*
 
 # Skills
 

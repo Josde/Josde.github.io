@@ -15,7 +15,9 @@ draft: false
 
 Ingeniero en prácticas en **ESALab** *(Febrero 2022 - Mayo 2022)*
 
-Ingeniero en prácticas en el **Ayuntamiento de Puebla de Sanabria** *(Junio 2023 - Presente)*
+Ingeniero en prácticas en el **Ayuntamiento de Puebla de Sanabria** *(Junio 2023 - Octubre 2023)*
+
+Desarrollador de backend (Django) en **Phicus Tecnología** *(Enero 2024 - Presente)*
 
 # Tecnologías
 

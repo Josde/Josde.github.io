@@ -13,11 +13,19 @@ draft: false
 
 # Trabajo
 
-Ingeniero en prácticas en **ESALab** *(Febrero 2022 - Mayo 2022)*
+- Ingeniero en prácticas en **ESALab** *(Febrero 2022 - Mayo 2022)*
+    - Puesto de investigación y desarrollo.
+    - Desarrollo de una aplicación de gamificación.
 
 Ingeniero en prácticas en el **Ayuntamiento de Puebla de Sanabria** *(Junio 2023 - Octubre 2023)*
+    - Modernización de la infraestructura informática en el turismo de la villa.
 
-Desarrollador de backend (Django) en **Phicus Tecnología** *(Enero 2024 - Presente)*
+Desarrollador de fullstack (Django + Vue) en **Phicus Tecnología** *(Enero 2024 - Presente)*
+    - Puesto de investigación y desarrollo.
+    - APIficación y desarrollo de interfaces.
+    - Migración de partes de la BBDD a MongoDB.
+    - Optimización del producto.
+    - Modernización del entorno de desarrollo.
 
 # Tecnologías
 
@@ -28,6 +36,15 @@ Desarrollador de backend (Django) en **Phicus Tecnología** *(Enero 2024 - Prese
 - Flutter
 - Django
 
+# Skills
+
+- Investigación
+- Curiosidad
+- Trabajo en equipo
+- Adaptabilidad
+- Documentación
+- Comunicación
+
 # Intereses
 
 - Desarrollo Fullstack
@@ -37,7 +54,7 @@ Desarrollador de backend (Django) en **Phicus Tecnología** *(Enero 2024 - Prese
 # Idiomas
 
 - Español (Nativo)
-- Inglés (Sin certificación oficial aún, estoy preparando el exámen del C1)
+- Inglés (C1 EOI)
 
 # Proyectos
 

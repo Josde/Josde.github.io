@@ -14,12 +14,20 @@ draft: false
 # Work
 
 Intern engineer at **ESALab** *(February 2022 - May 2022)*
+    - R&D
+    - Developing a gamification app.
 
 Intern engineer at **Ayuntamiento de Puebla de Sanabria** *(June 2023 - October 2023)*
+    - Modernizing the infrastructure of the town's touristic sites.
 
-Backend developer (Django) at **Phicus Tecnología** *(January 2024 - Present)*
+Fullstack developer (Django + Vue) at **Phicus Tecnología** *(January 2024 - Present)*
+    - R&D
+    - APIfication and frontend development.
+    - Migrating parts of the DB to Mongo.
+    - Product optimization.
+    - Modernizing the development environment.
 
-# Skills
+# Technologies
 
 - C
 - Python
@@ -27,6 +35,15 @@ Backend developer (Django) at **Phicus Tecnología** *(January 2024 - Present)*
 - Linux SysAdmin
 - Flutter
 - Django
+
+# Skills
+
+- Research
+- Curiosity
+- Teamwork
+- Adaptability
+- Documentation
+- Communication
 
 # Interests
 
@@ -36,8 +53,8 @@ Backend developer (Django) at **Phicus Tecnología** *(January 2024 - Present)*
 
 # Languages
 
-- Spanish (Native speaker)
-- English (Uncertified, currently preparing for the C1 tests)
+- Spanish (Native)
+- English (C1 EOI)
 
 # Projects
 

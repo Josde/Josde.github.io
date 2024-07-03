@@ -13,14 +13,14 @@ draft: false
 
 # Work
 
-Intern engineer at **ESALab** *(February 2022 - May 2022)*
+Intern engineer at **ESALab** *(February 2022 - May 2022)*  
     - R&D
     - Developing a gamification app.
 
-Intern engineer at **Ayuntamiento de Puebla de Sanabria** *(June 2023 - October 2023)*
+Intern engineer at **Ayuntamiento de Puebla de Sanabria** *(June 2023 - October 2023)*  
     - Modernizing the infrastructure of the town's touristic sites.
 
-Fullstack developer (Django + Vue) at **Phicus Tecnología** *(January 2024 - Present)*
+Fullstack developer (Django + Vue) at **Phicus Tecnología** *(January 2024 - Present)*  
     - R&D
     - APIfication and frontend development.
     - Migrating parts of the DB to Mongo.

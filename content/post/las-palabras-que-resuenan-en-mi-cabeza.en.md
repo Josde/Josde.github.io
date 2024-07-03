@@ -10,7 +10,6 @@ tags:
   - attention economy
 ---
 
-# The words  
 Lately, whenever I sit down in front of the computer, I can't help but remember those moments in Pokemon games where you accidentally try to use your bike inside of a building. "Oak's words echoed: There's a time and place for everything, but not now." was the game's response to this, making clear the limits of their universe. In my case, the words that echo my head aren't from any professor of sorts. The words that echo my head are, instead:  
 
 **"You only live once - you should try to spend as much time on the computer as possible. After you die, you won't have access to it any more"** - *[@afraidofwasps on Twitter](https://twitter.com/afraidofwasps/status/1436082368264216576?lang=en)*  

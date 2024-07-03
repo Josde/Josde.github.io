@@ -10,7 +10,6 @@ tags:
   - economía de la atención
 ---
 
-# Las palabras
 Últimamente, cuando me siento delante de mi ordenador, siento cómo en mi cerebro pasa algo parecido a lo que pasaba en los juegos de la saga Pokémon cuando accidentalmente intentabas usar la bicicleta dentro de un edificio. "Las palabras del Profesor Oak resuenan en tu cabeza: Cada cosa en su momento", es el mítico dialogo que nos dejaba claros los límites del juego. En mi caso, las palabras no son de ningún profesor. Las palabras que resuenan en mi cabeza son las siguientes:
 
 **"Sólo vives una vez - deberias de intentar pasar el máximo tiempo posible delante del ordenador. Cuando te mueras, no podrás usarlo más."** - *[@afraidofwasps en Twitter](https://twitter.com/afraidofwasps/status/1436082368264216576?lang=en)*

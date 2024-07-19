@@ -8,8 +8,8 @@ draft: false
 
 **Grado en Ingeniería Informática.**  
 *Universidad de Salamanca (2018-2023)*   
-**Curso en APIficación y arquitecturas de nueva generación.**  
-*AXPE Consulting (Oct 2022 - Nov 2022)*
+**Máster en Investigación en Tecnologías de la Información y las Comunicaciones.**  
+*Universidad de Valladolid (2024-2025)*   
 
 # Trabajo
 
@@ -35,6 +35,9 @@ draft: false
 - Administración de sistemas Linux 
 - Flutter
 - Django
+- Vue.js
+- MongoDB
+- SQL
 
 # Skills
 
@@ -50,11 +53,12 @@ draft: false
 - Desarrollo Fullstack
 - Ética tecnológica
 - Impactos de la tecnología en la sociedad
+- Psicología
 
 # Idiomas
 
 - Español (Nativo)
-- Inglés (C1 EOI)
+- Inglés (C1 EOI, C2 EFSET)
 
 # Proyectos
 

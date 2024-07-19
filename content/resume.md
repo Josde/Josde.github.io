@@ -8,8 +8,8 @@ draft: false
 
 **Bachelor's Degree in Computer Engineering**  
 *University of Salamanca (2018-2023)*  
-**Course in APIFication and new generation architectures**  
-*AXPE Consulting (Oct 2022 - Nov 2022)*
+**Master's Degree in Research of Information and Communication Technologies**  
+*University of Valladolid (2024-2025)*  
 
 # Work
 
@@ -35,6 +35,9 @@ draft: false
 - Linux SysAdmin
 - Flutter
 - Django
+- Vue.js
+- MongoDB
+- SQL
 
 # Skills
 
@@ -50,11 +53,12 @@ draft: false
 - Fullstack Development
 - Humane Tech
 - Impacts of technology in society
+- Psychology
 
 # Languages
 
 - Spanish (Native)
-- English (C1 EOI)
+- English (C1 EOI, C2 EFSET)
 
 # Projects
 

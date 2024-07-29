@@ -58,20 +58,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   name = "linkedin"
   url = "https://www.linkedin.com/in/jorge-cruz-garc%C3%ADa-9a6882196/"
 
-# And you can even create generic menu
-[[menu.main]]
-  identifier = "Musings"
-  name       = "Musings"
-  url        = "/post/"
-[[menu.main]]
-  identifier = "resume"
-  name       = "Resume"
-  url = "/resume/"
-
-[[menu.main]]
-  identifier = "projects"
-  name       = "Projects"
-  url = "/projects/"
 
 # Internationalization
 
@@ -96,6 +82,21 @@ defaultContentLanguage = 'en'
     [languages.en.params.logo]
       logoText = "josde.me"
       logoHomeLink = "/"
+
+      [[languages.en.menu.main]]
+        identifier = "Musings"
+        name       = "Musings"
+        url        = "/post/"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name       = "Resume"
+        url = "/resume/"
+
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name       = "Projects"
+        url = "/projects/"
+
    [languages.es]
     disabled = false
     languageCode = 'es-ES'
@@ -113,13 +114,26 @@ defaultContentLanguage = 'en'
         logoText = "josde.me"
         logoHomeLink = "/"
 
+    [[languages.es.menu.main]]
+      identifier = "musings"
+      name       = "Desvaríos"
+      url        = "/es/post/"
+
+    [[languages.es.menu.main]]
+      identifier = "resume"
+      name       = "Currículum"
+      url = "/es/resume/"
+    [[languages.es.menu.main]]
+      identifier = "projects"
+      name       = "Proyectos"
+      url = "/es/projects/"
 
 [params.footer]
     trademark = true
     rss = true
     copyright = true
     author = true
-
+    human_made = true
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",

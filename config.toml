@@ -40,23 +40,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   name = "github"
   url = "https://github.com/Josde"
 [[params.social]]
-  name = "twitch"
-  url = "https://twitch.tv/Josde_"
-[[params.social]]
-  name = "discord"
-  url = "https://discord.com/invite/sXV9KMgd"
-[[params.social]]
   name = "email"
   url = "mailto:contact@josde.me"
 [[params.social]]
-  name = "paypal"
-  url = "https://paypal.me/itsJosde"
-[[params.social]]
-  name = "mastodon"
-  url = "https://owo.cafe/@Josde"
-[[params.social]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/jorge-cruz-garc%C3%ADa-9a6882196/"
+  url = "https://www.linkedin.com/in/josde/"
 
 
 # Internationalization

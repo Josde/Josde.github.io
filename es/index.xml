@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Las movidas aleatorias de Josde</title>
+    <link>https://josde.me/es/</link>
+    <description>Recent content on Las movidas aleatorias de Josde</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <managingEditor>contact@josde.me (Josde)</managingEditor>
+    <webMaster>contact@josde.me (Josde)</webMaster>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 23 Feb 2024 18:48:23 +0100</lastBuildDate>
+    <atom:link href="https://josde.me/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las palabras que resuenan en mi cabeza</title>
+      <link>https://josde.me/es/post/las-palabras-que-resuenan-en-mi-cabeza/</link>
+      <pubDate>Fri, 23 Feb 2024 18:48:23 +0100</pubDate><author>contact@josde.me (Josde)</author>
+      <guid>https://josde.me/es/post/las-palabras-que-resuenan-en-mi-cabeza/</guid>
+      <description>Últimamente, cuando me siento delante de mi ordenador, siento cómo en mi cerebro pasa algo parecido a lo que pasaba en los juegos de la saga Pokémon cuando accidentalmente intentabas usar la bicicleta dentro de un edificio. &amp;ldquo;Las palabras del Profesor Oak resuenan en tu cabeza: Cada cosa en su momento&amp;rdquo;, es el mítico dialogo que nos dejaba claros los límites del juego. En mi caso, las palabras no son de ningún profesor.</description>
+    </item>
+    <item>
+      <title>La mierdificación de las redes sociales</title>
+      <link>https://josde.me/es/post/social-media/</link>
+      <pubDate>Sun, 09 Jul 2023 19:27:34 +0200</pubDate><author>contact@josde.me (Josde)</author>
+      <guid>https://josde.me/es/post/social-media/</guid>
+      <description>Últimamente da la sensación de que las sociales están empeorando cada día. ¿Es esto real o una simple percepción? ¿Qué podemos hacer?</description>
+    </item>
+    <item>
+      <title>Proyectos</title>
+      <link>https://josde.me/es/projects/</link>
+      <pubDate>Sat, 28 May 2022 17:01:05 +0200</pubDate><author>contact@josde.me (Josde)</author>
+      <guid>https://josde.me/es/projects/</guid>
+      <description>En esta sección se enseñan proyectos en los que he trabajado por tiempos algo extendidos. Pueden tener bugs aún, pero estoy orgulloso&#xA;Se puede clickear en las imágenes para ver el código fuente.&#xA;App para crear rutinas saludables a través de la gamificación Creador de competiciones de SoloQ de League of Legends Proyectos pequeños Aviso Casi todos los proyectos en este apartado fueron programados en 1 día o menos, y básicamente representan ideas que tuve y quise realizar rápidamente.</description>
+    </item>
+    <item>
+      <title>Cosas que NO hacer con una Wii</title>
+      <link>https://josde.me/es/post/things-not-to-do-on-wii/</link>
+      <pubDate>Sat, 12 Jun 2021 18:11:28 +0200</pubDate><author>contact@josde.me (Josde)</author>
+      <guid>https://josde.me/es/post/things-not-to-do-on-wii/</guid>
+      <description>Hay muchas cosas que se pueden hacer con una Wii. Yo, que soy estúpido, decidí explorar las que no deberías de hacer.</description>
+    </item>
+    <item>
+      <title>Currículum</title>
+      <link>https://josde.me/es/resume/</link>
+      <pubDate>Mon, 26 Apr 2021 23:38:43 +0200</pubDate><author>contact@josde.me (Josde)</author>
+      <guid>https://josde.me/es/resume/</guid>
+      <description>Educación Grado en Ingeniería Informática.&#xA;Universidad de Salamanca (2018-2023)&#xA;Máster en Investigación en Tecnologías de la Información y las Comunicaciones.&#xA;Universidad de Valladolid (2024-2025)&#xA;Trabajo Ingeniero en prácticas en ESALab (Febrero 2022 - Mayo 2022)&#xA;Puesto de investigación y desarrollo. Desarrollo de una aplicación de gamificación. Ingeniero en prácticas en el Ayuntamiento de Puebla de Sanabria (Junio 2023 - Octubre 2023)&#xA;Modernización de la infraestructura informática en el turismo de la villa.</description>
+    </item>
+  </channel>
+</rss>

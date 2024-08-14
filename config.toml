@@ -53,7 +53,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 defaultContentLanguage = 'en'
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
@@ -85,7 +85,7 @@ defaultContentLanguage = 'en'
         name       = "Projects"
         url = "/projects/"
 
-   [languages.es]
+   [languages.es.params]
     disabled = false
     languageCode = 'es-ES'
     languageDirection = 'ltr'
@@ -117,17 +117,17 @@ defaultContentLanguage = 'en'
       url = "/es/projects/"
 
 [params.footer]
-    trademark = true
+    trademark = false
     rss = true
-    copyright = true
-    author = true
+    copyright = false
+    author = false
     human_made = true
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
-      "Articles written with &#10084 by Josde"
+      "Articles written with &#10084 by Josde (aka: mini)"
     ]
 
-[author]
+[params.author]
     name = "Josde"
     email = "contact@josde.me"

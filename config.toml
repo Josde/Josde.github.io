@@ -2,7 +2,6 @@ baseurl      = "https://josde.me/"
 title        = "Josde's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 [params]
@@ -29,6 +28,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   
   images = [""]
 
+[pagination]
+  pagerSize = 10
 
 [taxonomies]
     category = "blog"
@@ -131,3 +132,4 @@ defaultContentLanguage = 'en'
 [params.author]
     name = "Josde"
     email = "contact@josde.me"
+

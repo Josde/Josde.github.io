@@ -1,2 +1,2 @@
-# Josde's Code Musings  
-Live at: [josde.me](https://josde.me)
+# dospuntostr.es  
+Live at: [dospuntostr.es](dospuntostr.es)

@@ -1,5 +1,5 @@
-baseurl      = "https://josde.me/"
-title        = "Josde's Blog"
+baseurl      = "https://dospuntostr.es/"
+title        = ":3"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
@@ -39,10 +39,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 [[params.social]]
   name = "github"
-  url = "https://github.com/Josde"
+  url = "https://github.com/minipps"
 [[params.social]]
   name = "email"
-  url = "mailto:contact@josde.me"
+  url = "mailto:contact@dospuntostr.es"
 [[params.social]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/josde/"
@@ -60,16 +60,16 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 1
-    title = "Josde's Random Musings"
+    title = ":3"
     homeSubtitle = "Thoughts on technology and a few coding adventures ٩(◕‿◕｡)۶"
-    subtitle = "josde.me"
-    description = "Josde's Blog. A place where you will find my thoughts on ethics on technology, computer science and some random programming adventures."
-    keywords = "blog, technology, programming, josde, josde.me, computer science, ethics"
+    subtitle = "dospuntostr.es"
+    description = "A place where you will find my thoughts on ethics on technology, computer science and some random programming adventures."
+    keywords = "blog, technology, programming, dospuntostr.es, josde, josde.me, :3, computer science, ethics"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "josde.me"
+      logoText = "dospuntostr.es"
       logoHomeLink = "/"
 
       [[languages.en.menu.main]]
@@ -92,15 +92,15 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = 'Español'
     homeSubtitle = "Reflexiones sobre tecnología y aventuras de programación ٩(◕‿◕｡)۶"
-    title = "Las movidas aleatorias de Josde"
-    subtitle = 'josde.me'
-    description = "El blog de Josde. Un lugar donde encontrarás reflexiones sobre la ética en la tecnología y en la ingeniería informática, además de aventuras aleatorias de programación."
+    title = ":3"
+    subtitle = 'dospuntostr.es'
+    description = "El blog de mini. Un lugar donde encontrarás reflexiones sobre la ética en la tecnología y en la ingeniería informática, además de aventuras aleatorias de programación."
     keywords = "blog, tecnología, programación, josde, josde.me, etica, ingeniería informática, tecnología humana"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Leer otros posts"
     weight = 2
     [languages.es.params.logo]
-        logoText = "josde.me"
+        logoText = "dospuntostr.es"
         logoHomeLink = "/"
 
     [[languages.es.menu.main]]
@@ -126,10 +126,10 @@ defaultContentLanguage = 'en'
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>",
-      "Articles written with &#10084 by Josde (aka: mini)"
+      "Articles written with &#10084 by mini"
     ]
 
 [params.author]
-    name = "Josde"
-    email = "contact@josde.me"
+    name = "mini"
+    email = "contact@dospuntostr.es"
 

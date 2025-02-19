@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wii on :3</title>
+    <link>https://dospuntostr.es/es/tags/wii/</link>
+    <description>Recent content in Wii on :3</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <managingEditor>contact@dospuntostr.es (mini)</managingEditor>
+    <webMaster>contact@dospuntostr.es (mini)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 12 Jun 2021 18:11:28 +0200</lastBuildDate>
+    <atom:link href="https://dospuntostr.es/es/tags/wii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosas que NO hacer con una Wii</title>
+      <link>https://dospuntostr.es/es/post/things-not-to-do-on-wii/</link>
+      <pubDate>Sat, 12 Jun 2021 18:11:28 +0200</pubDate><author>contact@dospuntostr.es (mini)</author>
+      <guid>https://dospuntostr.es/es/post/things-not-to-do-on-wii/</guid>
+      <description>Hay muchas cosas que se pueden hacer con una Wii. Yo, que soy estúpido, decidí explorar las que no deberías de hacer.</description>
+    </item>
+  </channel>
+</rss>

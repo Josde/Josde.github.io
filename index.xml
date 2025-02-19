@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>:3</title>
+    <link>https://dospuntostr.es/</link>
+    <description>Recent content on :3</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>contact@dospuntostr.es (mini)</managingEditor>
+    <webMaster>contact@dospuntostr.es (mini)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 23 Feb 2024 18:48:23 +0100</lastBuildDate>
+    <atom:link href="https://dospuntostr.es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The words that echo in my head</title>
+      <link>https://dospuntostr.es/post/las-palabras-que-resuenan-en-mi-cabeza/</link>
+      <pubDate>Fri, 23 Feb 2024 18:48:23 +0100</pubDate><author>contact@dospuntostr.es (mini)</author>
+      <guid>https://dospuntostr.es/post/las-palabras-que-resuenan-en-mi-cabeza/</guid>
+      <description>&lt;p&gt;Lately, whenever I sit down in front of the computer, I can&amp;rsquo;t help but remember those moments in Pokemon games where you accidentally try to use your bike inside of a building. &amp;ldquo;Oak&amp;rsquo;s words echoed: There&amp;rsquo;s a time and place for everything, but not now.&amp;rdquo; was the game&amp;rsquo;s response to this, making clear the limits of their universe. In my case, the words that echo my head aren&amp;rsquo;t from any professor of sorts. The words that echo my head are, instead:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://dospuntostr.es/projects/</link>
+      <pubDate>Sat, 28 May 2022 17:01:05 +0200</pubDate><author>contact@dospuntostr.es (mini)</author>
+      <guid>https://dospuntostr.es/projects/</guid>
+      <description>&lt;p&gt;These are a few projects that I have worked on for a while. They may still be buggy, but I am proud of them.&lt;/p&gt;&#xA;&lt;p&gt;Click on the images to see the source code.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://github.com/Josde/habitr_tfg&#34;&gt;&lt;img src=&#34;https://jos.s-ul.eu/XP9i3nF4&#34; alt=&#34;Habitr&#34;&gt;&lt;/a&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://github.com/Josde/Skaarladder&#34;&gt;&lt;img src=&#34;https://jos.s-ul.eu/KdCDDn3f&#34; alt=&#34;Skaarladder&#34;&gt;&lt;/a&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;App to create healthy routines through gamification&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;SoloQ Challenge creator for League of Legends&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h1 id=&#34;small-projects&#34;&gt;Small projects&lt;/h1&gt;&#xA;&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;&#xA;&lt;p&gt;Most of these projects were written in 1 day or less, and are basically train-of-thought coding.&lt;br&gt;&#xA;They are not quality code, nor represent the kind of things I can program.&lt;br&gt;&#xA;All of them are in need of very big rewrites to their codebase.&lt;br&gt;&#xA;They are, however, projects that I am fond of and enjoyed programming and therefore proud of :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Things not to do on a Wii</title>
+      <link>https://dospuntostr.es/post/things-not-to-do-on-wii/</link>
+      <pubDate>Sat, 12 Jun 2021 18:11:28 +0200</pubDate><author>contact@dospuntostr.es (mini)</author>
+      <guid>https://dospuntostr.es/post/things-not-to-do-on-wii/</guid>
+      <description>There are many things to do with a Wii. So I decided to explore the things that you definitely shouldn&amp;rsquo;t do!</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://dospuntostr.es/resume/</link>
+      <pubDate>Mon, 26 Apr 2021 23:38:43 +0200</pubDate><author>contact@dospuntostr.es (mini)</author>
+      <guid>https://dospuntostr.es/resume/</guid>
+      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor&amp;rsquo;s Degree in Computer Engineering&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;University of Salamanca (2018-2023)&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Master&amp;rsquo;s Degree in Research of Information and Communication Technologies&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;University of Valladolid (2024-2025)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;work&#34;&gt;Work&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Intern engineer at &lt;strong&gt;ESALab&lt;/strong&gt; &lt;em&gt;(February 2022 - May 2022)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;R&amp;amp;D&lt;/li&gt;&#xA;&lt;li&gt;Developing a gamification app.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Intern engineer at &lt;strong&gt;Ayuntamiento de Puebla de Sanabria&lt;/strong&gt; &lt;em&gt;(June 2023 - October 2023)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Modernizing the infrastructure of the town&amp;rsquo;s touristic sites.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Fullstack developer (Django + Vue) at &lt;strong&gt;Phicus Tecnología&lt;/strong&gt; &lt;em&gt;(January 2024 - Present)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
